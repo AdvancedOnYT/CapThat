@@ -13,9 +13,9 @@
 
 ## ✨ Key Features
 
-- ⚡ **Near-Zero Latency**: Leverages Windows Media Foundation and DXGI for hardware-accelerated frame processing.
+- ⚡ **Low Latency**: Leverages Windows Media Foundation and DXGI for hardware-accelerated frame processing.
 - 🎮 **Pro-Grade Capture**: Automatically selects the highest framerate and resolution supported by your device.
-- 🖼️ **Premium UI**: Modern, sleek interface powered by Dear ImGui with a focus on usability.
+- 🖼️ **Simple UI**: Modern, sleek interface powered by Dear ImGui with a focus on usability.
 - 📸 **High-Quality Screenshots**: Export pixel-perfect PNGs directly from the capture stream.
 - 🔉 **Integrated Audio**: Real-time audio monitoring with built-in mute functionality.
 - 🗔 **Window Management**:
@@ -39,7 +39,7 @@
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### Prerequisites (for building)
 
 - **Windows 10/11**
 - **CMake** (3.20+)
@@ -75,6 +75,7 @@
 
 | Action | Description |
 | :--- | :--- |
+| `O` | Enable Settings Menu |
 | `F11` | Toggle Fullscreen |
 | `M` | Toggle Mute |
 | `H` | Hide/Show UI |
