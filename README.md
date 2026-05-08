@@ -50,7 +50,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/CapThat.git
+   git clone https://github.com/AdvancedOnYT/CapThat
    cd CapThat
    ```
 
